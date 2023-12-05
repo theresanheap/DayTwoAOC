@@ -21,3 +21,5 @@ with open('DayTwoAOC/daytwo.txt', 'r') as f:
         new_dict[key_without_game] = sorted_values
 
 print(new_dict)
+
+# 12 red cubes, 13 green cubes, and 14 blue cube
